@@ -4,4 +4,4 @@
 
 ## Resources
 
-ToDo
+- 🎗️ See our [API Documents](https://docs.konfidant.app).
