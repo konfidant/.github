@@ -10,10 +10,7 @@
 
 ## SDKs
 
-- [Javascript](https://github.com/holidays-rest/sdk-js)
-- [Typescript](https://github.com/holidays-rest/sdk-ts)
-- [Go](https://github.com/holidays-rest/sdk-go)
-- [Python](https://github.com/holidays-rest/sdk-py)
-- [Ruby](https://github.com/holidays-rest/sdk-ruby)
-- [Kotlin](https://github.com/holidays-rest/sdk-kotlin)
-- [C# / .Net](https://github.com/holidays-rest/sdk-csharp)
+- [Javascript/Typescript](https://github.com/konfidant/sdk-js)
+- [Go](https://github.com/konfidant/sdk-go)
+- [Python](https://github.com/konfidant/sdk-py)
+- [Ruby](https://github.com/konfidant/sdk-ruby)
