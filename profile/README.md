@@ -2,6 +2,8 @@
 
 [Konfidant](https://www.konfidant.app) gives your team encrypted, self-destructing links for credentials, files, and sensitive messages. One view. Then it's gone — from everywhere.
 
+Share a one-time-secret; achieve secure file transfer, secure document sharing and secure file share with Konfidant.
+
 ## Resources
 
 - 🎗️ See our [API Documents](https://docs.konfidant.app).
